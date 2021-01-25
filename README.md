@@ -1,0 +1,2 @@
+＃iotest
+该练习包括File的创建，FileInputStream、FileOutputStream、FileReader、FileWriter、BufferedInputStream、BufferedOutputStream、BufferedReader和BufferedWriter的简单使用。
