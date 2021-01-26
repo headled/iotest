@@ -1,2 +1,4 @@
 ＃iotest
 该练习包括File的创建，FileInputStream、FileOutputStream、FileReader、FileWriter、BufferedInputStream、BufferedOutputStream、BufferedReader和BufferedWriter的简单使用。
+还有DataInputStream、DataOutputStream的简单应用。
+ZIP流包括压缩文件ziptest.java和解压文件ziptest2.java。
